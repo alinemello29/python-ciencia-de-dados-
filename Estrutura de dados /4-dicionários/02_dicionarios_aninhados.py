@@ -1,9 +1,9 @@
 contatos = {
-    "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
-    "giovanna@gmail.com": {"nome": "Giovanna", "telefone": "3443-2121"},
-    "chappie@gmail.com": {"nome": "Chappie", "telefone": "3344-9871"},
-    "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
+    "aline@gmail.com": {"nome": "aline", "telefone": "3333-2221"},
+    "ana@gmail.com": {"nome": "ana", "telefone": "3443-2121"},
+    "melo@gmail.com": {"nome": "melo", "telefone": "3344-9871"},
+    "maria@gmail.com": {"nome": "Maria", "telefone": "3333-7766"},
 }
 
-telefone = contatos["giovanna@gmail.com"]["telefone"]  # "3443-2121"
+telefone = contatos["aline@gmail.com"]["telefone"]  # "3443-2121"
 print(telefone)
